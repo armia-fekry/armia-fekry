@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Armia Fekry Zaki</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=2B96C5&center=true&lines=Hi+%2C+I'm+Armia+Fekry+Zaki)](https://git.io/typing-svg)
 <h3 align="center">A Software Engineer , Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armia-fekry&label=Profile%20views&color=0e75b6&style=flat" alt="armia-fekry" /> </p>
